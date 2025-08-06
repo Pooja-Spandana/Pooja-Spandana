@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pooja Spandana</h1>
-<h3 align="center">A 22 year old from India passionate about learning Data Science</h3>
+<h3 align="center">An aspiring Data Scientist from India, passionate about turning data into actionable insights. Currently exploring deep learning, time series forecasting, and end-to-end project development, I’m committed to continuous learning and growth in the field of Data Science.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 I’m currently learning **Data Science with Python course**
-
-- 📫 How to reach me **spandana0425@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+- **Programming Languages:** Python, SQL, Basic HTML & CSS
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Machine Learning:** Scikit-learn, XGBoost
+- **Deep Learning:** PyTorch, TensorFlow, Keras
+- **Time Series & Forecasting:** ARIMA, SARIMA, Prophet, LSTM
+- **Data Engineering:** Jupyter Notebook, Google Colab, Excel
+- **Deployment & Apps:** Streamlit
+- **Version Control:** Git, GitHub
+- **Databases:** MySQL
+- **Other Tools:** VS Code
+
+<h3 align="left">How to reach me: spandana0425@gmail.com</h3>
