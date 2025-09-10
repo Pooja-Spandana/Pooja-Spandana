@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - **Programming Languages:** Python, SQL, Basic HTML & CSS
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
 - **Machine Learning:** Scikit-learn, XGBoost
 - **Deep Learning:** PyTorch, TensorFlow, Keras
 - **Time Series & Forecasting:** ARIMA, SARIMA, Prophet, LSTM
