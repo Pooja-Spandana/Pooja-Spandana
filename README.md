@@ -10,11 +10,12 @@
 - **Machine Learning:** Scikit-learn, XGBoost
 - **Deep Learning:** PyTorch, TensorFlow, Keras
 - **Time Series & Forecasting:** ARIMA, SARIMA, Prophet, LSTM
-- **Data Engineering:** Jupyter Notebook, Google Colab, Excel
+- **Data Engineering:** ETL Concepts, Data Cleaning, Data Transformation, Basic Pipelines
+- **MLOps & Experiment Tracking:** MLflow, DagsHub
 - **Deployment & Apps:** Streamlit
 - **Version Control:** Git, GitHub
 - **Databases:** MySQL
-- **Other Tools:** VS Code
+- **Other Tools:** VS Code, Jupyter Notebook, Google Colab
 
 <h3 align="left">How to reach me</h3>
 
