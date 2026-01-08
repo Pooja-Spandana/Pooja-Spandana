@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Aspiring Data Scientist from India <br>
-Currently exploring MLOps & building end-to-end ML pipelines for experimentation, versioning, & deployment. <br>
+Exploring MLOps & building end-to-end ML pipelines for experimentation, versioning, & deployment. <br>
 Hands-on experience in data preparation, preprocessing, feature engineering, and feature selection through Machine Learning, Deep Learning, and Time Series analysis. <br> </h3>
 
 
