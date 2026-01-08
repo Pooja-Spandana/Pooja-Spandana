@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pooja Spandana</h1>
-<h3 align="center">An aspiring Data Scientist from India, passionate about turning data into actionable insights. Currently exploring deep learning, time series forecasting, and end-to-end project development, I’m committed to continuous learning and growth in the field of Data Science.</h3>
+
+<h3 align="center">
+Aspiring Data Scientist from India <br>
+Currently exploring MLOps & building end-to-end ML pipelines for experimentation, versioning, & deployment. <br>
+Hands-on experience in data preparation, preprocessing, feature engineering, and feature selection through Machine Learning, Deep Learning, and Time Series analysis. <br> </h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
@@ -21,3 +26,6 @@
 
 - **E-mail: spandana0425@gmail.com**
 - **LinkedIn: www.linkedin.com/in/pooja-spandana**
+
+  ---
+<h4 align="center"> ⭐ Always curious, always learning, and building one project at a time. </h4>
